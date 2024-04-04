@@ -1,21 +1,19 @@
-# My House Simulator
+# House Simulator
 
-Welcome to My House Simulator! This is a simple program written in C that simulates controlling a virtual house with doors and windows.
+Welcome to the House Simulator, a lightweight and interactive program designed to simulate the control of a virtual house.
 
 ## Features
 
-- Toggle the door open/close.
-- Toggle the windows open/close.
-- View instructions on how to use the simulator.
+- **Door Control:** Toggle the state of the door between open and closed.
+- **Window Control:** Toggle the state of the windows between open and closed.
+- **Instructions Display:** View detailed instructions on how to use the simulator effectively.
 
 ## Getting Started
 
-### Prerequisites
+1. **Installation:** Clone the repository and compile the source code using a C compiler compatible with your system.
+2. **Execution:** Run the compiled executable to launch the House Simulator.
+3. **Interaction:** Follow the on-screen prompts to interact with the simulator and control the house features.
 
-- Windows operating system (may work on Unix-like systems with minor modifications).
-- C compiler (e.g., GCC for Windows).
+## Contributing
 
-### Installation
-
-1. Clone the repository to your local machine:
-
+Contributions, suggestions, and bug reports are welcome! Feel free to open issues or submit pull requests to enhance the simulator's functionality and usability.
